@@ -59,9 +59,9 @@
     <surefire.version>2.22.2</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.17.233</aws.version>
+    <aws.version>2.17.238</aws.version>
     <bcrypt.version>0.9.0</bcrypt.version>
-    <dagger.version>2.42</dagger.version>
+    <dagger.version>2.43</dagger.version>
     <dropwizard.version>2.1.1</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
     <guava.version>31.1-jre</guava.version>
@@ -72,9 +72,9 @@
     <junit.jupiter.version>5.8.2</junit.jupiter.version>
     <jwt.version>4.0.0</jwt.version>
     <mockito.version>4.6.1</mockito.version>
-    <mongodb.version>4.6.1</mongodb.version>
+    <mongodb.version>4.7.0</mongodb.version>
     <retrofit.version>2.9.0</retrofit.version>
-    <swagger.version>2.2.1</swagger.version>
+    <swagger.version>2.2.2</swagger.version>
   </properties>
 
   <!-- Google Maven Repo is required for Dagger 2.38 and up -->
