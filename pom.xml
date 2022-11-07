@@ -59,13 +59,13 @@
     <surefire.version>2.22.2</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.18.6</aws.version>
+    <aws.version>2.18.11</aws.version>
     <dagger.version>2.44</dagger.version>
     <dropwizard.version>2.1.4</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
     <guava.version>31.1-jre</guava.version>
-    <jackson.api.version>2.13.4</jackson.api.version>
-    <jackson.databind.version>2.13.4.2</jackson.databind.version>
+    <jackson.api.version>2.14.0</jackson.api.version>
+    <jackson.databind.version>2.14.0</jackson.databind.version>
     <jmail.version>1.4.1</jmail.version>
     <junit.platform.version>1.9.1</junit.platform.version>
     <junit.jupiter.version>5.9.1</junit.jupiter.version>
@@ -74,7 +74,7 @@
     <mongodb.version>4.7.2</mongodb.version>
     <password4j.version>1.6.1</password4j.version>
     <retrofit.version>2.9.0</retrofit.version>
-    <swagger.version>2.2.4</swagger.version>
+    <swagger.version>2.2.6</swagger.version>
   </properties>
 
   <!-- Google Maven Repo is required for Dagger 2.38 and up -->
