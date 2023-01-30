@@ -59,13 +59,13 @@
     <surefire.version>2.22.2</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.19.21</aws.version>
+    <aws.version>2.19.26</aws.version>
     <dagger.version>2.44.2</dagger.version>
     <dropwizard.version>2.1.4</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
     <guava.version>31.1-jre</guava.version>
-    <jackson.api.version>2.14.1</jackson.api.version>
-    <jackson.databind.version>2.14.1</jackson.databind.version>
+    <jackson.api.version>2.14.2</jackson.api.version>
+    <jackson.databind.version>2.14.2</jackson.databind.version>
     <jmail.version>1.4.1</jmail.version>
     <junit.platform.version>1.9.2</junit.platform.version>
     <junit.jupiter.version>5.9.2</junit.jupiter.version>
