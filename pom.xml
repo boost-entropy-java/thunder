@@ -47,19 +47,19 @@
     <java.release.version>17</java.release.version>
 
     <!-- Plugin versions -->
-    <checkstyle.version>10.8.1</checkstyle.version>
+    <checkstyle.version>10.9.2</checkstyle.version>
     <checkstyle-plugin.version>3.2.1</checkstyle-plugin.version>
     <compiler-plugin.version>3.11.0</compiler-plugin.version>
     <gpg-plugin.version>3.0.1</gpg-plugin.version>
     <jacoco.version>0.8.8</jacoco.version>
     <javadoc-plugin.version>3.5.0</javadoc-plugin.version>
     <nexus-plugin.version>1.6.13</nexus-plugin.version>
-    <release-plugin.version>2.5.3</release-plugin.version>
+    <release-plugin.version>3.0.0</release-plugin.version>
     <source-plugin.version>3.2.1</source-plugin.version>
-    <surefire.version>2.22.2</surefire.version>
+    <surefire.version>3.0.0</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.20.22</aws.version>
+    <aws.version>2.20.27</aws.version>
     <dagger.version>2.45</dagger.version>
     <dropwizard.version>2.1.5</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
