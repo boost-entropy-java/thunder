@@ -51,7 +51,7 @@
     <checkstyle-plugin.version>3.2.1</checkstyle-plugin.version>
     <compiler-plugin.version>3.11.0</compiler-plugin.version>
     <gpg-plugin.version>3.0.1</gpg-plugin.version>
-    <jacoco.version>0.8.8</jacoco.version>
+    <jacoco.version>0.8.9</jacoco.version>
     <javadoc-plugin.version>3.5.0</javadoc-plugin.version>
     <nexus-plugin.version>1.6.13</nexus-plugin.version>
     <release-plugin.version>3.0.0</release-plugin.version>
@@ -59,7 +59,7 @@
     <surefire.version>3.0.0</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.20.32</aws.version>
+    <aws.version>2.20.37</aws.version>
     <dagger.version>2.45</dagger.version>
     <dropwizard.version>4.0.0</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
@@ -69,7 +69,7 @@
     <jmail.version>1.5.0</jmail.version>
     <junit.platform.version>1.9.2</junit.platform.version>
     <junit.jupiter.version>5.9.2</junit.jupiter.version>
-    <jwt.version>4.3.0</jwt.version>
+    <jwt.version>4.4.0</jwt.version>
     <mockito.version>5.2.0</mockito.version>
     <mongodb.version>4.9.0</mongodb.version>
     <password4j.version>1.7.0</password4j.version>
