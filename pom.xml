@@ -47,11 +47,11 @@
     <java.release.version>17</java.release.version>
 
     <!-- Plugin versions -->
-    <checkstyle.version>10.9.3</checkstyle.version>
+    <checkstyle.version>10.10.0</checkstyle.version>
     <checkstyle-plugin.version>3.2.2</checkstyle-plugin.version>
     <compiler-plugin.version>3.11.0</compiler-plugin.version>
     <gpg-plugin.version>3.0.1</gpg-plugin.version>
-    <jacoco.version>0.8.9</jacoco.version>
+    <jacoco.version>0.8.10</jacoco.version>
     <javadoc-plugin.version>3.5.0</javadoc-plugin.version>
     <nexus-plugin.version>1.6.13</nexus-plugin.version>
     <release-plugin.version>3.0.0</release-plugin.version>
@@ -59,16 +59,16 @@
     <surefire.version>3.0.0</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.20.51</aws.version>
-    <dagger.version>2.45</dagger.version>
+    <aws.version>2.20.56</aws.version>
+    <dagger.version>2.46</dagger.version>
     <dropwizard.version>4.0.0</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
     <guava.version>31.1-jre</guava.version>
     <jackson.api.version>2.15.0</jackson.api.version>
     <jackson.databind.version>2.15.0</jackson.databind.version>
     <jmail.version>1.5.0</jmail.version>
-    <junit.platform.version>1.9.2</junit.platform.version>
-    <junit.jupiter.version>5.9.2</junit.jupiter.version>
+    <junit.platform.version>1.9.3</junit.platform.version>
+    <junit.jupiter.version>5.9.3</junit.jupiter.version>
     <jwt.version>4.4.0</jwt.version>
     <mockito.version>5.3.1</mockito.version>
     <mongodb.version>4.9.1</mongodb.version>
