@@ -47,7 +47,7 @@
     <java.release.version>17</java.release.version>
 
     <!-- Plugin versions -->
-    <checkstyle.version>10.12.0</checkstyle.version>
+    <checkstyle.version>10.12.1</checkstyle.version>
     <checkstyle-plugin.version>3.3.0</checkstyle-plugin.version>
     <compiler-plugin.version>3.11.0</compiler-plugin.version>
     <gpg-plugin.version>3.1.0</gpg-plugin.version>
@@ -59,9 +59,9 @@
     <surefire.version>3.1.2</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.20.83</aws.version>
+    <aws.version>2.20.92</aws.version>
     <dagger.version>2.46.1</dagger.version>
-    <dropwizard.version>4.0.0</dropwizard.version>
+    <dropwizard.version>4.0.1</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
     <guava.version>32.0.1-jre</guava.version>
     <jackson.api.version>2.15.2</jackson.api.version>
@@ -70,11 +70,11 @@
     <junit.platform.version>1.9.3</junit.platform.version>
     <junit.jupiter.version>5.9.3</junit.jupiter.version>
     <jwt.version>4.4.0</jwt.version>
-    <mockito.version>5.3.1</mockito.version>
-    <mongodb.version>4.9.1</mongodb.version>
+    <mockito.version>5.4.0</mockito.version>
+    <mongodb.version>4.10.1</mongodb.version>
     <password4j.version>1.7.1</password4j.version>
     <retrofit.version>2.9.0</retrofit.version>
-    <swagger.version>2.2.11</swagger.version>
+    <swagger.version>2.2.14</swagger.version>
   </properties>
 
   <!-- Google Maven Repo is required for Dagger 2.38 and up -->
