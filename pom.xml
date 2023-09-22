@@ -52,14 +52,14 @@
     <compiler-plugin.version>3.11.0</compiler-plugin.version>
     <gpg-plugin.version>3.1.0</gpg-plugin.version>
     <jacoco.version>0.8.10</jacoco.version>
-    <javadoc-plugin.version>3.5.0</javadoc-plugin.version>
+    <javadoc-plugin.version>3.6.0</javadoc-plugin.version>
     <nexus-plugin.version>1.6.13</nexus-plugin.version>
     <release-plugin.version>3.0.1</release-plugin.version>
     <source-plugin.version>3.3.0</source-plugin.version>
     <surefire.version>3.1.2</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.20.144</aws.version>
+    <aws.version>2.20.149</aws.version>
     <dagger.version>2.48</dagger.version>
     <dropwizard.version>4.0.1</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
@@ -72,9 +72,9 @@
     <jwt.version>4.4.0</jwt.version>
     <mockito.version>5.5.0</mockito.version>
     <mongodb.version>4.10.2</mongodb.version>
-    <password4j.version>1.7.2</password4j.version>
+    <password4j.version>1.7.3</password4j.version>
     <retrofit.version>2.9.0</retrofit.version>
-    <swagger.version>2.2.15</swagger.version>
+    <swagger.version>2.2.16</swagger.version>
   </properties>
 
   <!-- Google Maven Repo is required for Dagger 2.38 and up -->
