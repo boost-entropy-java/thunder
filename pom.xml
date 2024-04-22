@@ -50,7 +50,7 @@
     <checkstyle.version>10.15.0</checkstyle.version>
     <checkstyle-plugin.version>3.3.1</checkstyle-plugin.version>
     <compiler-plugin.version>3.13.0</compiler-plugin.version>
-    <gpg-plugin.version>3.2.3</gpg-plugin.version>
+    <gpg-plugin.version>3.2.4</gpg-plugin.version>
     <jacoco.version>0.8.12</jacoco.version>
     <javadoc-plugin.version>3.6.3</javadoc-plugin.version>
     <nexus-plugin.version>1.6.13</nexus-plugin.version>
@@ -59,7 +59,7 @@
     <surefire.version>3.2.5</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.25.31</aws.version>
+    <aws.version>2.25.35</aws.version>
     <dagger.version>2.51.1</dagger.version>
     <dropwizard.version>4.0.7</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
