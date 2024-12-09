@@ -52,15 +52,15 @@
     <compiler-plugin.version>3.13.0</compiler-plugin.version>
     <gpg-plugin.version>3.2.7</gpg-plugin.version>
     <jacoco.version>0.8.12</jacoco.version>
-    <javadoc-plugin.version>3.11.1</javadoc-plugin.version>
+    <javadoc-plugin.version>3.11.2</javadoc-plugin.version>
     <nexus-plugin.version>1.7.0</nexus-plugin.version>
     <release-plugin.version>3.1.1</release-plugin.version>
     <source-plugin.version>3.3.1</source-plugin.version>
     <surefire.version>3.5.2</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.29.24</aws.version>
-    <dagger.version>2.52</dagger.version>
+    <aws.version>2.29.29</aws.version>
+    <dagger.version>2.53</dagger.version>
     <dropwizard.version>4.0.11</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
     <guava.version>33.3.1-jre</guava.version>
