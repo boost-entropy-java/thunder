@@ -59,7 +59,7 @@
     <surefire.version>3.5.2</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.30.6</aws.version>
+    <aws.version>2.30.11</aws.version>
     <dagger.version>2.55</dagger.version>
     <dropwizard.version>4.0.12</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
@@ -69,7 +69,7 @@
     <jmail.version>1.6.3</jmail.version>
     <junit.platform.version>1.11.4</junit.platform.version>
     <junit.jupiter.version>5.11.4</junit.jupiter.version>
-    <jwt.version>4.4.0</jwt.version>
+    <jwt.version>4.5.0</jwt.version>
     <mockito.version>5.15.2</mockito.version>
     <mongodb.version>5.3.1</mongodb.version>
     <password4j.version>1.8.2</password4j.version>
