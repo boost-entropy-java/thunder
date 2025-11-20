@@ -43,8 +43,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-    <java.minimum.version>21</java.minimum.version>
-    <java.release.version>21</java.release.version>
+    <java.minimum.version>25</java.minimum.version>
+    <java.release.version>25</java.release.version>
 
     <!-- Plugin versions -->
     <checkstyle.version>12.1.2</checkstyle.version>
@@ -56,14 +56,14 @@
     <nexus-plugin.version>1.7.0</nexus-plugin.version>
     <release-plugin.version>3.2.0</release-plugin.version>
     <source-plugin.version>3.3.1</source-plugin.version>
-    <surefire.version>3.5.3</surefire.version>
+    <surefire.version>3.5.4</surefire.version>
 
     <!-- Dependency versions -->
     <aws.version>2.38.7</aws.version>
     <dagger.version>2.57.2</dagger.version>
     <dropwizard.version>5.0.0</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
-    <guava.version>33.4.8-jre</guava.version>
+    <guava.version>33.5.0-jre</guava.version>
     <jackson.api.version>2.19.2</jackson.api.version>
     <jackson.databind.version>2.20.1</jackson.databind.version>
     <jmail.version>2.1.0</jmail.version>
@@ -199,6 +199,13 @@
             <release>${java.release.version}</release>
             <source>${java.minimum.version}</source>
             <target>${java.minimum.version}</target>
+            <annotationProcessorPaths>
+              <path>
+                <groupId>com.google.dagger</groupId>
+                <artifactId>dagger-compiler</artifactId>
+                <version>${dagger.version}</version>
+              </path>
+            </annotationProcessorPaths>
           </configuration>
         </plugin>
 
@@ -325,11 +332,6 @@
       <dependency>
         <groupId>com.google.dagger</groupId>
         <artifactId>dagger</artifactId>
-        <version>${dagger.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>com.google.dagger</groupId>
-        <artifactId>dagger-compiler</artifactId>
         <version>${dagger.version}</version>
       </dependency>
       <dependency>
