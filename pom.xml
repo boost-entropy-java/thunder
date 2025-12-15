@@ -47,19 +47,19 @@
     <java.release.version>25</java.release.version>
 
     <!-- Plugin versions -->
-    <checkstyle.version>12.2.0</checkstyle.version>
+    <checkstyle.version>12.3.0</checkstyle.version>
     <checkstyle-plugin.version>3.6.0</checkstyle-plugin.version>
     <compiler-plugin.version>3.14.1</compiler-plugin.version>
     <gpg-plugin.version>3.2.8</gpg-plugin.version>
     <jacoco.version>0.8.14</jacoco.version>
     <javadoc-plugin.version>3.12.0</javadoc-plugin.version>
     <nexus-plugin.version>1.7.0</nexus-plugin.version>
-    <release-plugin.version>3.3.0</release-plugin.version>
+    <release-plugin.version>3.3.1</release-plugin.version>
     <source-plugin.version>3.4.0</source-plugin.version>
     <surefire.version>3.5.4</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.40.3</aws.version>
+    <aws.version>2.40.8</aws.version>
     <dagger.version>2.57.2</dagger.version>
     <dropwizard.version>5.0.0</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
@@ -70,8 +70,8 @@
     <junit.platform.version>6.0.1</junit.platform.version>
     <junit.jupiter.version>6.0.1</junit.jupiter.version>
     <jwt.version>4.5.0</jwt.version>
-    <mockito.version>5.20.0</mockito.version>
-    <mongodb.version>5.6.1</mongodb.version>
+    <mockito.version>5.21.0</mockito.version>
+    <mongodb.version>5.6.2</mongodb.version>
     <password4j.version>1.8.4</password4j.version>
     <retrofit.version>3.0.0</retrofit.version>
     <swagger.version>2.2.41</swagger.version>
