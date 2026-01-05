@@ -47,7 +47,7 @@
     <java.release.version>25</java.release.version>
 
     <!-- Plugin versions -->
-    <checkstyle.version>12.3.0</checkstyle.version>
+    <checkstyle.version>13.0.0</checkstyle.version>
     <checkstyle-plugin.version>3.6.0</checkstyle-plugin.version>
     <compiler-plugin.version>3.14.1</compiler-plugin.version>
     <gpg-plugin.version>3.2.8</gpg-plugin.version>
@@ -59,7 +59,7 @@
     <surefire.version>3.5.4</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.40.16</aws.version>
+    <aws.version>2.41.1</aws.version>
     <dagger.version>2.57.2</dagger.version>
     <dropwizard.version>5.0.0</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
