@@ -59,19 +59,19 @@
     <surefire.version>3.5.6</surefire.version>
 
     <!-- Dependency versions -->
-    <aws.version>2.47.5</aws.version>
+    <aws.version>2.50.1</aws.version>
     <dagger.version>2.60.1</dagger.version>
     <dropwizard.version>5.0.2</dropwizard.version>
     <failsafe.version>2.4.4</failsafe.version>
     <guava.version>33.6.0-jre</guava.version>
     <jackson.api.version>2.19.2</jackson.api.version>
     <jackson.databind.version>2.20.1</jackson.databind.version>
-    <jmail.version>2.1.0</jmail.version>
+    <jmail.version>2.2.0</jmail.version>
     <junit.platform.version>6.1.2</junit.platform.version>
     <junit.jupiter.version>6.1.2</junit.jupiter.version>
     <jwt.version>4.6.0</jwt.version>
     <mockito.version>5.23.0</mockito.version>
-    <mongodb.version>5.9.0</mongodb.version>
+    <mongodb.version>5.9.1</mongodb.version>
     <password4j.version>1.8.4</password4j.version>
     <retrofit.version>3.0.0</retrofit.version>
     <swagger.version>2.2.52</swagger.version>
